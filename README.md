@@ -9,13 +9,13 @@ I am a Mechatronics Engineering, specialized in artificial intelligence and auto
 💻 Technologies
 ---
 <div id="badges">
-  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JS Badge"/>
-  <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow Badge"/>
-  <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=purple" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=MySql&logoColor=blue" alt="MySql Badge"/>
-  <img src="https://img.shields.io/badge/RaspberryPi-white?style=for-the-badge&logo=RaspberryPi&logoColor=red" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JS Badge"/>
+  <img src="https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow Badge"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=purple" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=black" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=MySql&logoColor=blue" alt="MySql Badge"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-black?style=for-the-badge&logo=RaspberryPi&logoColor=red" alt="Jupyter Badge"/>
   
 </div>
 
