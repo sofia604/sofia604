@@ -2,7 +2,7 @@
 I am a Mechatronics Engineering, specialized in artificial intelligence and automation
 ---
 
-- Jr. Data Science, also learning Web Development and Cybersecurity.
+- Data Science, Web Development, and Cybersecurity engineer.
 - Development and implementation of artificial vision in industrial robots (ROS)
 - I'm excited about Artificial Intelligence and Robotics and exploring how these technologies can improve our world
 - Always looking for new challenges and opportunities to keep growing and solve modern problems through knowledge and technology
